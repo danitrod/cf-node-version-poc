@@ -1,0 +1,7 @@
+applications:
+  - name: node-version-poc
+    path: .
+    command: node index.js
+    instances: 1
+    memory: 128M
+
